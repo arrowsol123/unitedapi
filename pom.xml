@@ -149,7 +149,7 @@
 			<scope>provided</scope>
 		</dependency>
 		<!-- for testing -->
-		<dependency>
+		<!-- <dependency>
 			<groupId>org.mule.tests</groupId>
 			<artifactId>mule-tests-functional</artifactId>
 			<version>${mule.version}</version>
@@ -161,7 +161,7 @@
             <version>${mule.version}</version>
             <scope>provided</scope>
         </dependency>
-    </dependencies>
+    </dependencies> -->
 
 	<repositories>
           <repository>
