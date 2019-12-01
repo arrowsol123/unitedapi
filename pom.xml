@@ -64,8 +64,8 @@
 			    <cloudHubDeployment>
 			      <uri>https://anypoint.mulesoft.com</uri>
 			      <muleVersion>3.9.3</muleVersion>
-			      <username>santhoshuberacc</username>
-			      <password>Spiderman143</password>
+			      <username>YOURLOGIN</username>
+			      <password>YOURPASSSWORD</password>
 			      <applicationName>unitedapi2</applicationName>
 			      <environment>Sandbox</environment>
 			      <workerType>Micro</workerType> 
