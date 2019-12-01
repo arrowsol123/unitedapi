@@ -142,12 +142,12 @@
 			<version>${mule.version}</version>
 			<scope>provided</scope>
 		</dependency> -->
-		<dependency>
+		<!-- <dependency>
 			<groupId>org.mule.modules</groupId>
 			<artifactId>mule-module-xml</artifactId>
 			<version>${mule.version}</version>
 			<scope>provided</scope>
-		</dependency>
+		</dependency> -->
 		<!-- for testing -->
 		<!-- <dependency>
 			<groupId>org.mule.tests</groupId>
@@ -155,12 +155,12 @@
 			<version>${mule.version}</version>
 			<scope>test</scope>
 		</dependency> -->
-	<dependency>
+	<!-- <dependency>
             <groupId>org.mule.modules</groupId>
             <artifactId>mule-module-apikit</artifactId>
             <version>${mule.version}</version>
             <scope>provided</scope>
-        </dependency>
+        </dependency> -->
     </dependencies>
 
 	<repositories>
